@@ -1,0 +1,1 @@
+%~dp0\yt-dlp.exe -a "%userprofile%\desktop\yta.list.txt"
