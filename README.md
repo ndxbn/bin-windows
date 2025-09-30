@@ -1,2 +1,6 @@
 # bin-windows
-my windows bin directory.
+
+インストールするバイナリファイル：
+
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- [vmaf](https://github.com/Netflix/vmaf)
