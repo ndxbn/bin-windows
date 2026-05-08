@@ -1,1 +1,0 @@
-%~dp0\gallery-dl.exe %1
